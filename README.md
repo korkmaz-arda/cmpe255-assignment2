@@ -2,7 +2,7 @@
 
 This repository contains executed Google Colab notebooks covering core prerequisites for Assignment 2. Each notebook is stored in `colabs/` with its outputs, along with a YouTube walkthrough explaining the important code, outputs, and underlying concepts.
 
-## Colab Walkthroughs
+## Colabs
 
 | #  | Topic                        | Notebook                                                                          | Video                     |
 | -- | ---------------------------- | --------------------------------------------------------------------------------- | ------------------------- |
