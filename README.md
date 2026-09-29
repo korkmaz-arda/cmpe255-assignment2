@@ -6,7 +6,7 @@ This repository contains executed Google Colab notebooks covering core prerequis
 
 | #  | Topic                        | Notebook                                                                          | Video                     |
 | -- | ---------------------------- | --------------------------------------------------------------------------------- | ------------------------- |
-| 1  | Python                       | [`1_python.ipynb`](colabs/1_python.ipynb)                                         | [YouTube](https://youtu.be/0H15_27gHoM) |
+| 1  | Python                       | [`1_python.ipynb`](colabs/1_python.ipynb)                                         | https://youtu.be/0H15_27gHoM |
 | 2  | NumPy                        | [`2_numpy.ipynb`](colabs/2_numpy.ipynb)                                           | [YouTube](YOUTUBE_URL_02) |
 | 3  | Pandas                       | [`3_pandas.ipynb`](colabs/3_pandas.ipynb)                                         | [YouTube](YOUTUBE_URL_03) |
 | 4  | Matplotlib                   | [`4_matplotlib.ipynb`](colabs/4_matplotlib.ipynb)                                 | [YouTube](YOUTUBE_URL_04) |
